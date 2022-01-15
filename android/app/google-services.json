@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217475297855",
+    "project_id": "kidameg1",
+    "storage_bucket": "kidameg1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217475297855:android:b6b8f90227ec49ad943e8a",
+        "android_client_info": {
+          "package_name": "kidame.android.g1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217475297855-6negdqdskebu60iqr2vr0gs1fmng6pvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCAs61fWVWu7tAODsy9VGzHB1Y6aRFbFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217475297855-6negdqdskebu60iqr2vr0gs1fmng6pvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
